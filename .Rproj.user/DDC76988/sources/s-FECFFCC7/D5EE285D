@@ -1,25 +1,25 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1639161277117.000,
+    "created" : 1639164666121.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
     "hash" : "0",
-    "id" : "59922B78",
-    "lastKnownWriteTime" : 1639163033,
-    "last_content_update" : 1639163033656,
-    "path" : "~/Desktop/yumaryvasquez.github.io/index.Rmd",
-    "project_path" : "index.Rmd",
+    "id" : "D5EE285D",
+    "lastKnownWriteTime" : 1639165665,
+    "last_content_update" : 1639165665725,
+    "path" : "~/Desktop/yumaryvasquez.github.io/pubs.Rmd",
+    "project_path" : "pubs.Rmd",
     "properties" : {
-        "cursorPosition" : "0,0",
+        "cursorPosition" : "10,163",
         "scrollLine" : "0",
         "tempName" : "Untitled1"
     },
     "read_only" : false,
     "read_only_alternatives" : [
     ],
-    "relative_order" : 1,
+    "relative_order" : 4,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "r_markdown"
