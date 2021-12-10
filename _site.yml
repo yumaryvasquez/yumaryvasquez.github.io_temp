@@ -1,0 +1,14 @@
+name: "yumaryv-website"
+navbar:
+  title: "Yumary Vasquez"
+  left:
+    - text: "Home"
+      href: index.html
+  right: 
+    - icon: fa-envelope fa-lg
+      href: mailto:yvasquez8@ucmerced.edu
+    - icon: fa-github fa-lg
+      href: http://github.com/yumaryvasquez/
+output:
+  html_document:
+    theme: darkly
