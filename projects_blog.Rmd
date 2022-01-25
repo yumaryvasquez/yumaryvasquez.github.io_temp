@@ -1,0 +1,14 @@
+---
+title: "Projects/Blog"
+---
+
+This page is a collection of projects I have worked on, including a blog post about the work in the project. 
+<br> 
+<br> 
+<br> 
+
+
+#### <span style="text-decoration:underline">Post 1: [CheckerSpot Butterflies](https://yumaryvasquez.github.io/CheckerSpotButterflies/)</span>
+
+This work was done during UC Merced's Interdisciplinary Computational Graduate Education (ICGE) program in 2019. We were interested in the discourse on Twitter in relation to climate change legislation. As there is many different climate change-based legislation we decided to focus on the [Juliana vs. US](https://www.youthvgov.org/our-case) case. We scraped tweets relating to the case from August 2015 - February 2019 and performed a sentiment analysis. Additionally, we connected peaks in twitter discussions following specific events. More information on our methods and results can be found on the website page for this project.
+
