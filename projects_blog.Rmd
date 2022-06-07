@@ -7,6 +7,11 @@ This page is a collection of projects I have worked on, including a blog post ab
 <br> 
 <br> 
 
+#### <span style="text-decoration:underline">Post 2: [Brewery Map](https://yumary-vasquez.shinyapps.io/Brewery_Map/)</span>
+During the Summer of 2022, my husband and I talked about "what we like to do for fun." One thing we talked about is how we both love to check out breweries wherever we go. Following this conversation, we also talked about creating a shiny map with our brewery visits. This is the beginning of that work. This is in no way the complete list of breweries we have been to (we forgot the name of a few), but it is a starting point. We both also have been to other breweries without each other, and I have not added those as well. <br> 
+My hope for this small, for-fun project is to take in text input that will update the maps with suggestions from people who visit this site. 
+
+
 
 #### <span style="text-decoration:underline">Post 1: [CheckerSpot Butterflies](https://yumaryvasquez.github.io/CheckerSpotButterflies/)</span>
 
