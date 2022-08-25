@@ -1,2 +1,3 @@
 # yumaryvasquez.github.io
--Editing in Process!
+Github repository for website. 
+08/25: New CV, addition of pubs
