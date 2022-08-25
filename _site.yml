@@ -13,7 +13,7 @@ navbar:
     - text: "Projects & Blog"
       href: projects.html
     - text: "CV"
-      href: files/VasquezCV.pdf
+      href: VasquezCV_grad.pdf
     - text: "RadioBio"
       href: https://www.radiobio.net
   right: 
